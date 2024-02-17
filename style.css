@@ -1,0 +1,17 @@
+.move {
+  border: 1px;
+  box-shadow: 5px;
+  border-radius: 10px;
+  width: 100px;
+  height: 30px;
+}
+
+.reset-button {
+  width: 100px;
+  height: 30px;
+  border: 10px;
+}
+
+button:hover{
+  cursor: pointer;
+}
